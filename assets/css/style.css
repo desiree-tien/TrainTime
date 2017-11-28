@@ -1,0 +1,29 @@
+#title,
+#train-sound
+{
+	color: white;
+
+}
+
+#train-sound
+{
+	margin-top: 15px;
+}
+
+#header
+{
+	background-color: rgba(63, 127, 191, 0.8);
+	border-radius: 25px;
+}
+
+.train-titles
+{
+	margin-top: 15px;
+}
+
+body {
+	background-size: cover;
+	opacity: 0.85;
+    filter: alpha(opacity=85);
+
+}
